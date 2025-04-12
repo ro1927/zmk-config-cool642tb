@@ -75,7 +75,7 @@
 &kp NUMBER_0  &num00        &kp DOT       &kp ENTER     &trans     &trans  &trans  &trans                                                                               &trans
             >;
 
-            sensor-bindings = <&inc_dec_kp 0 0>;
+            sensor-bindings = <&inc_dec_kp DELETE BACKSPACE>;
         };
 
         F+ARROW {
